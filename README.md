@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [[https:shreyasahay99.github.io/shreyaportfolio/](https://shreyasahay99.github.io/shreyaportfolio/)]([https:shreyasahay99.github.io/shreyaportfolio/](https://shreyasahay99.github.io/shreyaportfolio/))
+- 👨‍💻 All of my projects are available at [my portfolio]([https:shreyasahay99.github.io/shreyaportfolio/](https://shreyasahay99.github.io/shreyaportfolio/))
 
 - 📫 How to reach me **shreya.sahay@gwu.edu**
 
